@@ -1,0 +1,31 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 81
+    length: 72
+    placeholder_text: '# TODO найти сумму, количество и среднее арифметическое уникальных
+      чисел'
+    initial_state:
+      length: 72
+      offset: 81
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: DZIZb9X2Aj+1UMCajZ8m3Ygz54k8Jsf+F/ORzmp/w3dCAxipAQ8bFsUVl4QHjKZdeBC/jc2e/5bv7gHFjWSdNVy5A4N14pDZ3fUV9wjJy49Ns+kkhFGELruh/Z7oiEIxyvbRN92Z98cRumQyR1tvho69bm4hABAo93u5Bkvv5EA8zIfBTEWqebJSNPmwem2L
+  encrypted_text: 0LxL4mSLIRwLaYWUcm3erVHXwAosBjIyY0SJHgbzHQUTUXslzAmTjTIYX92sCLw6JZzlv1UWF+VVZT/8mk5SKBJ9fOiStgRgPa4f+idfM7p4sXJcZ+dn1WTdM74gOq06ChtCSBzX6kmeQ7DNRzFun2DRBRXjDXnrLjmOEFX9YEmatAuWs/KVcT70zcgsHgqyeJx1RYd63fa5Ud70gbJYHpT2RrlzkvXl/7EejxEnWc1lXWIpjvpuYZaDbVR7QEZ/Yc+ZrTmRd+xitS2FcaK4w1Dr4xjWNSZ1PUQATHKV270=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 9COVaj4LSGKCkKZpzFroaA==
+  learner_created: false
+status: Unchecked
+feedback:
+  message: No Python interpreter. Learn how to configure Python environment <a href="https://plugins.jetbrains.com/plugin/10081-edutools/docs/troubleshooting-guide.html#environment_configuration_python">here</a>
+  time: Wed, 26 Oct 2022 09:04:58 UTC
+record: -1

@@ -1,0 +1,27 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 16
+    length: 53
+    placeholder_text: '...:  # TODO Заменить многоточие необходимым условием'
+    initial_state:
+      length: 53
+      offset: 16
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Ccu3IyBeXtvfmEtN2UvVBsGMY/GTI7AAw3nGs1L64WZ2XxRqEL0zDZ6GONg5it1O
+  encrypted_text: R08wXcgTjMsAFLmOEOvBAm96wlpKxQuFRj7UEaB6stMKkV/G4KRo+Xil4HydyePCwBvn882gWfG3GxMLNmoDkjbHYaGgV6MNJhNNl4f8AxwK4UznMzem5uPuzIAEKCEf4cO/RRCCI07zB/tvR6ebM8aCvo0OJC2AZqJULGWwk1a+cngFEP+xvhpDnQCYh5d8br8aZm+PNz2qCaT31lBe3W4t5mhTFM+b528Q4OwSjZU=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: oc4umKYreaqIo468YNs/geDtJwawozuDMLQb20uIBPfFpEzoWqkNGtZbdA9U3Zi/
+  learner_created: false
+status: Unchecked
+record: -1

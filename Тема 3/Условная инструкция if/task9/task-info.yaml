@@ -1,0 +1,30 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 15
+    length: 122
+    placeholder_text: |-
+      mount == 12 or \
+                    mount == 1 or \
+                    mount == 2:  # TODO переписать условие с помощью оператора in
+    initial_state:
+      length: 122
+      offset: 15
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: rfxUJel0TCLHGYCD6hJHcBFGtYLLk/Yssjrx8NeK4Ww=
+  encrypted_text: vyPy145rpmBX8ACVxWA4sOf0BkoCkHkdd3hc4GrF/2k9wegNMtbL3mc5OhVS9KgesYP254RgSD3PcqJnF56o1NF07LrkXFL0fewUIeVNZp2dr+Dmgd9saRX6r4mRRlpJfBCjGOp2EUeCVaCCJioi5VZsK8TV/sjFh7fvBEAhmgj9yo5beFpmDdnsHfIZm58UV+LFZpPaoU3hkQ36l3nAf8Zp2M5ZYburizkQF4XtNa/JmYXZMahUyJOPuSkT8B+Ck/95zE4VXw5n3FOYhERPJg==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: ZC53065lGX8Qh8woENJA7A==
+  learner_created: false
+status: Unchecked
+record: -1
