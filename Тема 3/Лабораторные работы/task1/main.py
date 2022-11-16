@@ -7,3 +7,5 @@ result = False and True or False and True
 result = True or False
 result = True
 print(src == result)
+
+
